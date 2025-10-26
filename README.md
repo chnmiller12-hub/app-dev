@@ -1,3 +1,5 @@
 # app-dev
 My first repository
-Add info about favorite series
+1. Spider0-Man 1
+2. Spider0-Man 2
+3. Spider0-Man 3
